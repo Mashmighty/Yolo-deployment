@@ -16,6 +16,7 @@ variable "instances" {
   }
 }
 
+
 variable "project_id" {
   type    = string
   default = "yolo-client"
