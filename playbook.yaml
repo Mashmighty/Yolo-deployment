@@ -10,7 +10,7 @@
   tasks:
     - name: Clone the repository
       git:
-        repo: https://github.com/Ruthmwangi26/yolo.git
+        repo: https://github.com/Mashmighty/yolo.git
         dest: /opt/yolo
 
     - name: Install npm
